@@ -2,6 +2,9 @@
 [FastLED examples link]: https://github.com/FastLED/FastLED/tree/master/examples
 [Flutter link]: https://flutter.dev/
 [Tweaking4All effects link]: https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effects/
+[Flutter Reactive Blue link]: https://github.com/PhilipsHue/flutter_reactive_ble
+[Flutter HSV Color Picker link]: https://github.com/fluttercandies/flutter_hsvcolor_picker
+
 
 # LightsOn
 An ESP32 project for controlling LED strips through a bluetooth app
